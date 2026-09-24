@@ -117,4 +117,4 @@ Hsu, T.-Y., Giles, C. L., & Huang, T.-H. K. (2021). **SCICAP: Generating Caption
 
 ## Relationship to the Main Project
 
-This model is part of [PolySumm](../README.md), a multimodal scientific-paper summarization system combining document extraction, specialized text/figure/table processing, retrieval, and a user-facing application.
+This model is part of [PolySumm](https://github.com/yassinelsharkawy/Graduation_Project), a multimodal scientific-paper summarization system combining document extraction, specialized text/figure/table processing, retrieval, and a user-facing application.
